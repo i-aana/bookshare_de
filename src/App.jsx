@@ -11,6 +11,7 @@ import Slider from './components/Slider/Slider';
 import './stylese/custom-styles.css';
 import Cart from './components/Cart/Cart'; // Make sure CartPage is created in pages/
 import About from './components/About/About';
+// import supabase from './components/Supabase-client';
 
 const App = () => {
   return (
